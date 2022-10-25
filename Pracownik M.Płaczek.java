@@ -1,4 +1,6 @@
 public class Pracownik {
+  
+  	public static void main(String[] args) {
 
   public Pracownik(int wiek, String imie)
   {
